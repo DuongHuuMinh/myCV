@@ -19,10 +19,16 @@ img{
 footer{
 	background-color: #708090;
 	color: #f5f5f5;
+	padding-left: 3%;
+	
 
 }
-footer h2{
+footer h1{
 	text-align: center;
+	padding: 3%;
+}
+footer h3,p{
+	font-size: 150%;
 }
 section {
 	border:1px solid #CCC;
